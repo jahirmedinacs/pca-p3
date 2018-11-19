@@ -58,6 +58,7 @@ def PCA(data, comp=2, verbose=False):
     
     
     matrix_w = np.hstack((eig_pairs[0][1].reshape(n,1), eig_pairs[1][1].reshape(n,1)))
+#     print(matrix_w)
     
     if verbose:
         print(matrix_w)
