@@ -36,8 +36,17 @@ Autor:
 
 ### Reducão de dimensionalidade ###
 
+#### PCA clásico ####
+
+#### PCA adaptativo ####
+
 
 ### Resultados do dataset wine ###
+
+#### PCA clásico ####
+
+#### PCA adaptativo ####
+
 ## Conclusões
 
   -
