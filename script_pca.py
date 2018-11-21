@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 
@@ -61,8 +60,17 @@ def to_std_coord(data_frame):
 def pca_importance(eig_vals_column):
     repr_percnt = (eig_vals_column / eig_vals_column.sum()) * 100.0
     repr_percnt.sort_values(ascending=True,inplace=True)
-    
+     
     return pd.DataFrame(repr_percnt)
+
+
+
+def relevance_print(__relevance):
+    temp = __relevance.sort_values(by=__relevance.columns.tolist()[0],ascending=False).copy()
+    temp.columns = ["Relevance %"]
+    print(temp)
+    del temp
+    return None
 
 
 
@@ -77,11 +85,12 @@ def pca_transformer(data_frame, function, verbose=False):
     for column_id in data_frame.columns.tolist():
         pca_transform_[column_id] = eig_vect[:, ii_]
         ii_ += 1
-        
-    cumulative_importance = pca_importance(pca_transform_.eig_vals).cumsum()
+    
+    __relevance = pca_importance(pca_transform_.eig_vals)
+    cumulative_importance = __relevance.cumsum()
     
     if verbose:
-        print(cumulative_importance)
+        relevance_print(__relevance)
     else:
         pass
     
