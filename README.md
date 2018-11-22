@@ -89,6 +89,10 @@ Autor:
 
 ### Resultados do dataset wine ###
 
+#### Sem PCA ####
+
+<img src= "./loss_orig.png" height="90%" width="85%">
+
 #### PCA clásico ####
 
 <img src= "./loss_clasico.png" height="90%" width="85%">
