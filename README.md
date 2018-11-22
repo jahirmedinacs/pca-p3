@@ -46,19 +46,19 @@ Autor:
 
 | PCA                          | Responsabilidade |
 |------------------------------|------------------|
-| alcohol                      | 36.1988          |
-| malic_acid                   | 19.2075          |
-| ash                          | 11.1236          |
-| alcalinity_of_ash            | 7.0690           |
-| magnesium                    | 6.5633           |
-| total_phenols                | 4.9358           |
-| flavanoids                   | 4.2387           |
-| proanthocyanins              | 2.6807           |
-| hue                          | 2.2222           |
-| proline                      | 1.9300           |
-| od280/od315_of_diluted_wines | 1.7368           |
-| color_intensity              | 1.2982           |
-| nonflavanoid_phenols         | 0.7952           |
+| alcohol                      | 36.1988 %        |
+| malic_acid                   | 19.2075 %        |
+| ash                          | 11.1236 %        |
+| alcalinity_of_ash            | 7.0690  %        |
+| magnesium                    | 6.5633  %        |
+| total_phenols                | 4.9358  %        |
+| flavanoids                   | 4.2387  %        |
+| proanthocyanins              | 2.6807  %        |
+| hue                          | 2.2222  %        |
+| proline                      | 1.9300  %        |
+| od280/od315_of_diluted_wines | 1.7368  %        |
+| color_intensity              | 1.2982  %        |
+| nonflavanoid_phenols         | 0.7952  %        |
 
 ### Responsabilidade na variância PCA adaptativo ###
 
