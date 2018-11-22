@@ -97,11 +97,11 @@ Autor:
 
 #### PCA clásico ####
 
-<img src= "./loss_clasico.png" height="67%" width="85%">
+<img src= "./loss_clasico.png" height="60%" width="85%">
 
 #### PCA adaptativo ####
 
-<img src= "./loss_adaptativo.png" height="67%" width="85%">
+<img src= "./loss_adaptativo.png" height="60%" width="85%">
 
 ## Conclusões
 
