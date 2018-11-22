@@ -44,12 +44,39 @@ Autor:
 
 ### Responsabilidade na variância PCA clásica ###
 
-| alcohol   | malic_acid |       ash | alcalinity_of_ash | magnesium | total_phenols | flavanoids | proanthocyanins | hue      | proline  | od280/od315_of_diluted_wines | color_intensity | nonflavanoid_phenols |
-|-----------|:----------:|----------:|-------------------|-----------|---------------|------------|-----------------|----------|----------|------------------------------|-----------------|----------------------|
-| 36.198848 |  19.20749  | 11.123631 | 7.06903           | 6.563294  | 4.935823      | 4.238679   | 2.680749        | 2.222153 | 1.930019 | 1.736836                     | 1.298233        | 0.795215             |
-
+| PCA                          | Responsabilidade |
+|------------------------------|------------------|
+| alcohol                      | 36.1988          |
+| malic_acid                   | 19.2075          |
+| ash                          | 11.1236          |
+| alcalinity_of_ash            | 7.0690           |
+| magnesium                    | 6.5633           |
+| total_phenols                | 4.9358           |
+| flavanoids                   | 4.2387           |
+| proanthocyanins              | 2.6807           |
+| hue                          | 2.2222           |
+| proline                      | 1.9300           |
+| od280/od315_of_diluted_wines | 1.7368           |
+| color_intensity              | 1.2982           |
+| nonflavanoid_phenols         | 0.7952           |
 
 ### Responsabilidade na variância PCA adaptativo ###
+
+| PCA                          | Responsabilidade |
+|------------------------------|------------------|
+| alcohol                      | 36.1988          |
+| malic_acid                   | 19.2075          |
+| ash                          | 11.1236          |
+| alcalinity_of_ash            | 7.0690           |
+| magnesium                    | 6.5633           |
+| total_phenols                | 4.9358           |
+| flavanoids                   | 4.2387           |
+| proanthocyanins              | 2.6807           |
+| hue                          | 2.2222           |
+| proline                      | 1.9300           |
+| od280/od315_of_diluted_wines | 1.7368           |
+| color_intensity              | 1.2982           |
+| nonflavanoid_phenols         | 0.7952           |
 
 
 ### Reducão de dimensionalidade ###
