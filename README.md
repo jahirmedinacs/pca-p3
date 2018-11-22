@@ -80,7 +80,7 @@ Autor:
 ### Reducão de dimensionalidade ###
 
 #### PCA clásico ####
- <img src= "./corte_clasico.png" height="300" width="300">
+ <img src= "./corte_clasico.png" height="600" width="800">
  ![alt text](./corte_clasico.png = 250x250 )
 
 #### PCA adaptativo ####
