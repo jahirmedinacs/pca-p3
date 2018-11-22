@@ -81,11 +81,10 @@ Autor:
 
 #### PCA clásico ####
  <img src= "./corte_clasico.png" height="100%" width="80%">
- ![alt text](./corte_clasico.png = 250x250 )
 
 #### PCA adaptativo ####
 
- ![alt text](./corte_adaptativo.png "Logo Title Text 1")
+<img src= "./corte_adaptativo.png" height="100%" width="80%">
 
 ### Resultados do dataset wine ###
 
