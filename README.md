@@ -81,25 +81,25 @@ Autor:
 ### Reducão de dimensionalidade ###
 
 #### PCA clásico ####
- <img src= "./corte_clasico.png" height="90%" width="90%">
+ <img src= "./corte_clasico.png" height="90%" width="85%">
 
 #### PCA adaptativo ####
 
-<img src= "./corte_adaptativo.png" height="90%" width="90%">
+<img src= "./corte_adaptativo.png" height="90%" width="85%">
 
 ### Resultados do dataset wine ###
 
 #### Sem PCA ####
 
-<img src= "./loss_orig.png" height="70%" width="90%">
+<img src= "./loss_orig.png" height="70%" width="85%">
 
 #### PCA clásico ####
 
-<img src= "./loss_clasico.png" height="70%" width="90%">
+<img src= "./loss_clasico.png" height="70%" width="85%">
 
 #### PCA adaptativo ####
 
-<img src= "./loss_adaptativo.png" height="70%" width="90%">
+<img src= "./loss_adaptativo.png" height="70%" width="85%">
 
 ## Conclusões
 
