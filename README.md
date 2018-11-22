@@ -93,15 +93,15 @@ Autor:
 
 #### Sem PCA ####
 
-<img src= "./loss_orig.png" height="70%" width="85%">
+<img src= "./loss_orig.png" height="70%" width="80%">
 
 #### PCA clásico ####
 
-<img src= "./loss_clasico.png" height="68%" width="85%">
+<img src= "./loss_clasico.png" height="68%" width="80%">
 
 #### PCA adaptativo ####
 
-<img src= "./loss_adaptativo.png" height="68%" width="85%">
+<img src= "./loss_adaptativo.png" height="68%" width="80%">
 
 ## Conclusões
 
