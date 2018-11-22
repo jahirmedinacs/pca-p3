@@ -28,11 +28,13 @@ Autor:
 
 ### PCA clasico
 
-   - Foi calculado a matrix de covariância e
+   - Foi calculado a matrix de covariância e calculo - se os autovetores e autovalores
    
 ### PCA adaptativo
    
-   - Foi feito uma rede não supervisionada 13x13   
+   - Foi feito uma rede não supervisionada 13x13 con regra hebbiana generalizada para o aprendizado
+   
+### Test
 ## Resultados
 
 ### Responsabilidade na variância PCA clásica ###
