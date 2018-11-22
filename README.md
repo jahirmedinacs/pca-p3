@@ -93,7 +93,7 @@ Autor:
 
 #### Sem PCA ####
 
-<img src= "./loss_orig.png" height="70%" width="85%">
+<img src= "./loss_orig.png" height="60%" width="85%">
 
 #### PCA clásico ####
 
