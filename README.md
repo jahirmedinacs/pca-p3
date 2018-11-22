@@ -85,6 +85,7 @@ Autor:
 
 #### PCA adaptativo ####
 
+ ![alt text](./corte_adaptativo.png "Logo Title Text 1")
 
 ### Resultados do dataset wine ###
 
