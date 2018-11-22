@@ -35,6 +35,11 @@ Autor:
    - Foi feito uma rede não supervisionada 13x13 con regra hebbiana generalizada para o aprendizado
    
 ### Test
+
+   - Foi feito a reducão de dimensionalidade considerando 8 variables 
+   - Foi feito uma MLP 8x5x13, con funcão de ativação relu,hard_sigmoid,softmax e um dropout de 0.2,0.1
+   - Foi particionada a data em 75% para treinamento e 25% para teste
+   
 ## Resultados
 
 ### Responsabilidade na variância PCA clásica ###
