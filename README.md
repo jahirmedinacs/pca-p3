@@ -105,6 +105,6 @@ Autor:
 
 ## Conclusões
 
-  -
+  - Na redução de dimensionalidade com o PCA clasico foi obtido um 85.098 % de representatividade dos dados, enquanto com o PCA adaptativo foi obtido um 79.9267 % de representatividade dos dados
   
   -
