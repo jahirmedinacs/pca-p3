@@ -81,7 +81,7 @@ Autor:
 
 #### PCA clásico ####
 
- ![alt text](./corte_clasico.png "Logo Title Text 1")
+ ![alt text](./corte_clasico.png "Logo Title Text 1" =250x250 )
 
 #### PCA adaptativo ####
 
