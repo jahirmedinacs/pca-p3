@@ -36,7 +36,7 @@ Autor:
    
 ### Test
 
-   - Foi feito a reducão de dimensionalidade considerando 8 variables 
+   - Foi feito a reducão de dimensionalidade considerando 8 melhores variables 
    - Foi feito uma MLP 8x5x13, con funcão de ativação relu,hard_sigmoid,softmax e um dropout de 0.2,0.1
    - Foi particionada a data em 75% para treinamento e 25% para teste
    
