@@ -23,12 +23,23 @@ Autor:
 
 ## Descrição de atividades
 
-   -
-     
-   -  
+### Pre Procesamiento
+   -  Padronize os dados X_i para estes tenham média igual a 0 e variância igual a 1
+
+### PCA clasico
+
+   - Foi calculado a matrix de covariância e
+   
+### PCA adaptativo
+   
+   - Foi feito uma rede não supervisionada 13x13   
 ## Resultados
 
 ### Responsabilidade na variância PCA clásica ###
+
+| alcohol   | malic_acid |       ash | alcalinity_of_ash | magnesium | total_phenols | flavanoids | proanthocyanins | hue      | proline  | od280/od315_of_diluted_wines | color_intensity | nonflavanoid_phenols |
+|-----------|:----------:|----------:|-------------------|-----------|---------------|------------|-----------------|----------|----------|------------------------------|-----------------|----------------------|
+| 36.198848 |  19.20749  | 11.123631 | 7.06903           | 6.563294  | 4.935823      | 4.238679   | 2.680749        | 2.222153 | 1.930019 | 1.736836                     | 1.298233        | 0.795215             |
 
 
 ### Responsabilidade na variância PCA adaptativo ###
