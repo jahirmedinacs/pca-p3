@@ -77,6 +77,7 @@ Autor:
 | hue                               | 4.2474   %       |
 | od280/od315_of_diluted_wines      | 3.6723   %       |
 | proline                           | 2.8747   %       |
+
 ### Reducão de dimensionalidade ###
 
 #### PCA clásico ####
