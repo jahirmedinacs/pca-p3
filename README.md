@@ -80,11 +80,11 @@ Autor:
 ### Reducão de dimensionalidade ###
 
 #### PCA clásico ####
- <img src= "./corte_clasico.png" height="100%" width="80%">
+ <img src= "./corte_clasico.png" height="90%" width="85%">
 
 #### PCA adaptativo ####
 
-<img src= "./corte_adaptativo.png" height="100%" width="80%">
+<img src= "./corte_adaptativo.png" height="90%" width="85%">
 
 ### Resultados do dataset wine ###
 
