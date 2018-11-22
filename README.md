@@ -36,9 +36,9 @@ Autor:
    
 ### Test
 
-   - Foi feito a reducão de dimensionalidade considerando 8 melhores variables(baseado em um corte de un 20% da suma acumulativa)
+   - Foi feito a reducão de dimensionalidade baseado em um corte de un 20% da suma acumulativa da responsabilidade da variância
    
-   - Foi feito uma MLP 8x5x13, con funcão de ativação relu,hard_sigmoid,softmax e um dropout de 0.2,0.1
+   - Foi feito MLP 13x5x13(sem PCA),6x5x13(PCA clásico),8x5x13(PCA adaptativo), con funcão de ativação relu,hard_sigmoid,softmax e um dropout de 0.2,0.1
    
    - Foi particionada a data em 75% para treinamento e 25% para teste
    
