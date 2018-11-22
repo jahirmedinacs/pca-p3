@@ -64,20 +64,19 @@ Autor:
 
 | PCA                               | Responsabilidade |
 |-----------------------------------|------------------|
-| alcohol                           | 19.32981         |
-| malic_acid                        | 13.986309        |
-| ash                               | 10.735028        |
-| alcalinity_of_ash                 | 8.558073         |
-| magnesium                         | 8.251536         |
-| total_phenols                     | 7.156269         |
-| flavanoids                        | 6.636788         |
-| nonflavanoid_phenols              | 5.276198         |
-| proanthocyanins                   | 4.801283         |
-| color_intensity                   | 4.474312         |
-| hue                               | 4.247415         |
-| od280/od315_of_diluted_wines      | 3.672289         |
-| proline                           | 2.874692         |
-
+| alcohol                           | 19.3298  %       |
+| malic_acid                        | 13.9863  %       |
+| ash                               | 10.7350  %       |
+| alcalinity_of_ash                 | 8.5581   %       |
+| magnesium                         | 8.2515   %       |
+| total_phenols                     | 7.1563   %       |
+| flavanoids                        | 6.6368   %       |
+| nonflavanoid_phenols              | 5.2762   %       |
+| proanthocyanins                   | 4.8013   %       |
+| color_intensity                   | 4.4743   %       |
+| hue                               | 4.2474   %       |
+| od280/od315_of_diluted_wines      | 3.6723   %       |
+| proline                           | 2.8747   %       |
 ### Reducão de dimensionalidade ###
 
 #### PCA clásico ####
